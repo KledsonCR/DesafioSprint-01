@@ -91,7 +91,7 @@ R: 200 OK, 202 Accepted, 204 No Content
 R: .myd
 
 ### 21) Qual comando usa-se para extração de arquivos em MongoDB durante a instalação? 
-R: No caso de SO Linux e Mac ele usa o servidor ./mongod para executar e passa um parâmetro para adicionar o diretório, este comando seria ./mongod --dbpath <path to data directory> 
+R: No caso de SO Linux e Mac ele usa o servidor ./mongod para executar e passa um parâmetro para adicionar o diretório, este comando seria ./mongod --dbpath e "path to data directory"
 
 ### 22) Para que usamos o MongoDB? 
 R: Usamos o MongoDB porque podemos utilizar uma grande gama de dados, com vários relacionamentos e dependência entre os mesmos.
