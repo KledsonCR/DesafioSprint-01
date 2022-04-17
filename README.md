@@ -99,7 +99,7 @@ R: Usamos o MongoDB porque podemos utilizar uma grande gama de dados, com vário
 ### 23) Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
 R: 1xx: Respostas de informações, esse tipo de informação é provisória e indica que o status está normalmente.
 2xx: Respostas de sucesso, esse status code informa que a ação foi concluida com sucesso de acordo com o verbo HTTP. 
-3xx: Redirecionamentos, esse tipo de requisição informa que mais de um caminho, e você deve selecionar um.
+3xx: Redirecionamentos, esse tipo de requisição informa mais de um caminho, e você deve selecionar um.
 4xx: Erros de cliente, esse tipo de requisição infomar a mensagem de erro de sintax ou endereço inválido.
 5xx: Erros do servidor, o servidor não consegue lidar com o erro.
 
