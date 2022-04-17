@@ -104,4 +104,4 @@ R: 1xx: Respostas de informações, esse tipo de informação é provisória e i
 5xx: Erros do servidor, o servidor não consegue lidar com o erro.
 
 ### 24) Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora: 
-R: Foi incrível to adorando a experiência, tiveram vários execícios e aulas satisfatórias, espero aprender e contribuir muito. Minha expectativa é adquirir o máximo de conhecimento possível e quem sabe conseguir ser um compasser e um grande profissional.
+R: Foi incrível, to adorando a experiência tiveram vários execícios e aulas satisfatórias, espero aprender e contribuir muito. Minha expectativa é adquirir o máximo de conhecimento possível e quem sabe conseguir ser um compasser e um grande profissional.
